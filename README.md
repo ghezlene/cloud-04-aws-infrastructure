@@ -1,3 +1,5 @@
+[← Back to Cloud Engineering Lab](https://github.com/ghezlene/cloud-engineering-lab)
+
 # AWS Infrastructure Lab
 
 > Explore the building blocks of cloud infrastructure on Amazon Web Services.
@@ -67,3 +69,4 @@ Design a basic application infrastructure containing:
 - [ ] Understand security groups and routing.
 - [ ] Document architecture and cost considerations.
 
+[← Back to Cloud Engineering Lab](https://github.com/ghezlene/cloud-engineering-lab)
